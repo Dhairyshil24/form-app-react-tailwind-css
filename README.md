@@ -1,4 +1,4 @@
-# React & Tailwind CSS Starter Pack
+# Form
 
 This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
 
@@ -8,12 +8,12 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
+    git clone https://github.com/Dhairyshil24/form-app-react-tailwind-css.git
     ```
 
 1. Install the required packages.
     ```sh
-    cd react-tailwind-css-starter-pack
+    cd form-app-react-tailwind-css
     npm install
     ```
 
